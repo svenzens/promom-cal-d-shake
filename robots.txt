@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://promom-cal-d-shake.vercel.app/sitemap.xml
